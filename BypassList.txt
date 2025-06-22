@@ -219,6 +219,7 @@ amnesty.tw
 amnestyusa.org
 ampproject.org
 amtb-taipei.org
+amuletmc.com
 anchor.fm
 anchorfree.com
 ancsconf.org
@@ -837,7 +838,6 @@ clipfish.de
 cloud.dify.ai
 cloud.mail.ru
 cloudflare-ipfs.com
-cloudfront.net
 cloudfunctions.net
 club1069.com
 clubhouseapi.com
@@ -1154,6 +1154,7 @@ dw-world.com
 dw-world.de
 dw.com
 dw.de
+dweb.link
 dwnews.com
 dwnews.net
 dynamic-dns.net
@@ -1436,6 +1437,7 @@ focustaiwan.tw
 focusvpn.com
 fofg.org
 fooooo.com
+forbes.com
 foreignaffairs.com
 foreignpolicy.com
 form.new
@@ -1624,6 +1626,7 @@ github.io
 githubassets.com
 githubcopilot.com
 githubusercontent.com
+gitlab.net
 gizlen.net
 gjczz.com
 glarity.app
@@ -1878,6 +1881,7 @@ hilive.tv
 himalayan-foundation.org
 himemix.com
 hindustantimes.com
+hinet.net
 hitbtc.com
 hitomi.la
 hiveon.net
@@ -2111,6 +2115,7 @@ inxian.com
 iownyour.org
 ipdefenseforum.com
 ipfire.org
+ipfs.4everland.io
 ipfs.io
 iphone4hongkong.com
 iphonetaiwan.org
@@ -2810,6 +2815,7 @@ nflximg.com
 nflximg.net
 nflxso.net
 nflxvideo.net
+nftstorage.link
 nga.mil
 nhentai.net
 nhi.gov.tw
@@ -2956,6 +2962,7 @@ onmypc.net
 onmypc.org
 onthehunt.com
 ontrac.com
+oojj.de
 open.firstory.me
 openai.com
 opendemocracy.net
@@ -3705,6 +3712,7 @@ store.steampowered.com
 storj.io
 storm.mg
 stormmediagroup.com
+storry.tv
 stoweboyd.com
 straitstimes.com
 straplessdildo.com
