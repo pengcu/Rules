@@ -470,6 +470,7 @@ bitchute.com
 bitcointalk.org
 bitcoinworld.com
 bitfinex.com
+bitget.com
 bithumb.com
 bitmex.com
 bitshare.com
@@ -841,6 +842,7 @@ clipconverter.cc
 clipfish.de
 cloud.dify.ai
 cloud.mail.ru
+cloudflare-dns.com
 cloudflare-ipfs.com
 cloudfunctions.net
 club1069.com
@@ -2528,6 +2530,7 @@ matters.news
 matters.town
 matthewdgreen.wordpress.com
 mattwilcox.net
+maven.neoforged.net
 maxing.jp
 mcadforums.com
 mcaf.ee
@@ -4240,6 +4243,7 @@ unseen.is
 unstable.icu
 unwire.hk
 uocn.org
+upbit.com
 updates.tdesktop.com
 upghsbc.com
 upholdjustice.org
@@ -4582,13 +4586,14 @@ www.klip.me
 www.lorenzetti.com.br
 www.moztw.org
 www.msn.com
-www.nodeloc.com
 www.powerpointninja.com
 www.shadowsocks.com
 www.wan-press.org
 www.xicons.org
 www1.biz
 wwwhost.biz
+wxw.cat
+wxw.moe
 x-art.com
 x-berry.com
 x-wall.org
