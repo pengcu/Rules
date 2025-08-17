@@ -436,6 +436,7 @@ bestvpnusa.com
 bet365.com
 betaclouds.net
 betfair.com
+betterhash.net
 betternet.co
 bettervpn.com
 bettween.com
@@ -459,6 +460,7 @@ bigsound.org
 bild.de
 biliworld.com
 binance.com
+binance.org
 binancezh.cc
 binux.me
 bird.so
@@ -1866,6 +1868,7 @@ hentaivideoworld.com
 heqinglian.net
 heritage.org
 herokuapp.com
+herominers.com
 hexieshe.com
 hexieshe.xyz
 hexxeh.net
@@ -2101,6 +2104,7 @@ indiatoday.in
 indiemerch.com
 inews-api.tvb.com
 info-graf.fr
+infura.io
 inherit.live
 initiativesforchina.org
 inkbunny.net
@@ -2166,6 +2170,7 @@ isupportuyghurs.org
 itaiwan.gov.tw
 italiatibet.org
 itasoftware.com
+itch.io
 itemdb.com
 itemfix.com
 itsaol.com
@@ -2469,6 +2474,7 @@ lsmwebcast.com
 lsxszzg.com
 ltn.com.tw
 luckydesigner.space
+luckymobile.ca
 ludepress.com
 luke54.com
 luke54.org
@@ -2572,6 +2578,7 @@ merit-times.com.tw
 messenger.com
 meta.com
 metafilter.com
+metamask.io
 metart.com
 metarthunter.com
 meteorshowersonline.com
@@ -3030,6 +3037,7 @@ page.link
 paimon.moe
 palacemoon.com
 paltalk.com
+pancakeswap.finance
 pandafan.pub
 pandapow.co
 pandapow.net
@@ -3088,6 +3096,7 @@ periscope.tv
 perplexity.ai
 persecutionblog.com
 persiankitty.com
+pewresearch.org
 phayul.com
 phmsociety.org
 phncdn.com
@@ -3206,6 +3215,7 @@ prism-break.org
 prisoneralert.com
 pritunl.com
 privacybox.de
+privacyguides.org
 private.com
 privateinternetaccess.com
 privatepaste.com
@@ -3773,6 +3783,7 @@ suroot.com
 surrenderat20.net
 svsfx.com
 swagbucks.com
+swapspace.co
 swissinfo.ch
 swissvpn.net
 switch1.jp
