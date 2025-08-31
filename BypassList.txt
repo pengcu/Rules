@@ -1395,6 +1395,7 @@ fdc64.org
 fdc89.jp
 feedburner.com
 feeder.co
+feedly.com
 feedx.net
 feelssh.com
 feitian-california.org
@@ -2658,6 +2659,7 @@ mofos.com
 mog.com
 mohu.club
 mohu.rocks
+moj.gov.tw
 mojim.com
 mol.gov.tw
 momoshop.com.tw
