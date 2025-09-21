@@ -1576,6 +1576,7 @@ gaoming.net
 gaopi.net
 gardennetworks.org
 gartlive.com
+garudalinux.org
 gate.io
 gatecoin.com
 gather.com
@@ -1643,6 +1644,7 @@ github.io
 githubassets.com
 githubcopilot.com
 githubusercontent.com
+gitlab.com
 gitlab.net
 gizlen.net
 gjczz.com
@@ -2866,6 +2868,7 @@ nikke.hotcool.tw
 nikkei.com
 ninjacloak.com
 ninjaproxy.ninja
+nirsoft.net
 nitter.cc
 nitter.net
 niu.moe
@@ -4434,6 +4437,7 @@ vpnvip.com
 vpnworldwide.com
 vporn.com
 vpser.net
+vpsxb.net
 vrchat.com
 vrmtr.com
 vrporn.com
