@@ -1491,6 +1491,8 @@ freedominfonetweb.wordpress.com
 freedomsherald.org
 freeforums.org
 freegao.com
+freegpt.es
+freegpt.tech
 freehongkong.org
 freekazakhs.org
 freelotto.com
@@ -3660,6 +3662,7 @@ solana.com
 solarsystem.nasa.gov
 solidaritetibet.org
 solidfiles.com
+solscan.io
 solv.finance
 somee.com
 songjianjun.com
@@ -4369,6 +4372,7 @@ vijayatemple.org
 vilanet.me
 vilavpn.com
 vimeo.com
+vimeocdn.com
 vimperator.org
 vincnd.com
 vine.co
