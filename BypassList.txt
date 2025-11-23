@@ -143,6 +143,7 @@ aculo.us
 adcex.com
 addictedtocoffee.de
 addyoutube.com
+adguard-vpn.com
 admin.recaptcha.net
 admob.com
 adpl.org.hk
@@ -163,6 +164,7 @@ afreecatv.com
 agnesb.fr
 agoogleaday.com
 agro.hk
+ai.dev
 aiosearch.com
 aiph.net
 airasia.com
@@ -857,6 +859,7 @@ cloud.dify.ai
 cloud.mail.ru
 cloudflare-dns.com
 cloudflare-ipfs.com
+cloudflarestatus.com
 cloudfunctions.net
 club1069.com
 clubhouseapi.com
@@ -1822,6 +1825,7 @@ gravatar.com
 greasyfork.org
 greatfire.org
 greatfire.us7.list-manage.com
+greatfirevpn.com
 greatfirewallofchina.org
 greenparty.org.tw
 greenpeace.com.tw
@@ -1876,6 +1880,7 @@ hautelook.com
 hautelookcdn.com
 hbg.com
 hbo.com
+hbomax.com
 hclips.com
 hdtvb.net
 hdzog.com
@@ -2440,6 +2445,7 @@ liaowangxizang.net
 liberal.org.hk
 libertysculpturepark.com
 libertytimes.com.tw
+library-access.sk
 libredd.it
 lifemiles.com
 lighten.org.tw
@@ -2632,6 +2638,7 @@ mh4u.org
 microvpn.com
 mihr.com
 mihua.org
+mij.rip
 mikanani.me
 mike.cz.cc
 mikesoltys.com
@@ -2669,7 +2676,9 @@ mixero.com
 mixi.jp
 mixx.com
 mizzmona.com
+mji.rip
 mjib.gov.tw
+mjj.rip
 mlc.ai
 mlcool.com
 mlzs.work
@@ -2794,6 +2803,7 @@ nakido.com
 nalandabodhi.org
 nalandawest.org
 namgyal.org
+namu.wiki
 nanopool.org
 nanyang.com
 nanyangpost.com
@@ -3152,6 +3162,7 @@ picacomic.com
 picacomiccn.com
 picasaweb.com
 picidae.net
+picsart.com
 picuki.com
 pigav.com
 pin-cong.com
@@ -3453,6 +3464,7 @@ rule34video.com
 rumble.com
 runbtx.com
 rushbee.com
+rustdesk.com
 rusvpn.com
 ruten.com.tw
 rutracker.net
@@ -4585,6 +4597,7 @@ wikinews.org
 wikipedia.com
 wikipedia.org
 wikisource.org
+wikiunblocked.org
 wikiversity.org
 wikivoyage.org
 wikiwand.com
@@ -4705,6 +4718,7 @@ xm.com
 xml-training-guide.com
 xn--11xs86f.icu
 xn--4gq171p.com
+xn--9iqy04a7fi01l.com
 xn--9pr62r24a.com
 xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
