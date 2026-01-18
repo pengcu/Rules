@@ -121,6 +121,7 @@ abebooks.com
 abematv.akamaized.net
 ablwang.com
 aboluowang.com
+about.gitlab.com
 about.me
 abplive.com
 abs.edu
@@ -174,6 +175,7 @@ airvpn.org
 aisex.com
 ait.org.tw
 aiweiweiblog.com
+akamai.tvb.com
 akiba-online.com
 akiba-web.com
 akinator.com
@@ -239,7 +241,10 @@ angela-merkel.de
 angola.org
 angularjs.org
 aniscartujo.com
+annas-archive.in
+annas-archive.li
 annas-archive.org
+annas-archive.pm
 annas-archive.se
 anobii.com
 anonfiles.com
@@ -1478,7 +1483,6 @@ foreignaffairs.com
 foreignpolicy.com
 form.new
 forms.new
-forum.tvb.com
 forum4hk.com
 fountmedia.io
 fourthinternational.org
@@ -1667,7 +1671,6 @@ github.io
 githubassets.com
 githubcopilot.com
 githubusercontent.com
-gitlab.com
 gitlab.net
 gizlen.net
 gjczz.com
@@ -2800,6 +2803,7 @@ myspace.com
 myspacecdn.com
 mytalkbox.com
 mytizi.com
+mytvsuper.com
 mywife.cc
 mywww.biz
 myz.info
@@ -2865,6 +2869,7 @@ newnews.ca
 news.ebc.net.tw
 news.mt.co.kr
 news.seehua.com
+news.tvbs.com.tw
 news.ycombinator.com
 news1.kr
 news18.com
@@ -4242,6 +4247,7 @@ tushycash.com
 tuvpn.com
 tv.com
 tv.jtbc.joins.com
+tvbanywhere.com
 tvboxnow.com
 tvmost.com.hk
 tvplayvideos.com
