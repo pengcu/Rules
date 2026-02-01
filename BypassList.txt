@@ -376,6 +376,7 @@ b.hatena.ne.jp
 b0ne.com
 babylonbee.com
 backchina.com
+backend-v2.crixet.com
 bad.news
 badiucao.com
 badjojo.com
@@ -407,6 +408,7 @@ bayvoice.net
 bb-chat.tv
 bbc.co.uk
 bbc.com
+bbc.pdn.tritondigital.com
 bbcchinese.com
 bbchat.tv
 bbci.co.uk
@@ -1043,6 +1045,7 @@ dazn.com
 db.tt
 dbgjd.com
 dcard.tw
+dcs-spotify.megaphone.fm
 ddc.com.tw
 ddex.io
 ddns.info
@@ -1522,6 +1525,7 @@ freeoz.org
 freess.org
 freessh.us
 freetcp.com
+freeterabox.com
 freetibet.net
 freetibet.org
 freetibetanheroes.org
@@ -1900,6 +1904,7 @@ heeact.edu.tw
 hegre-art.com
 helloandroid.com
 helloqueer.com
+help.byspotify.com
 helpeachpeople.com
 helpster.de
 helpzhuling.org
@@ -3652,6 +3657,7 @@ sijihuisuo.com
 silkbook.com
 silvergatebank.com
 simbolostwitter.com
+simianx.ai
 simplecd.me
 simplecd.org
 simpleswap.io
@@ -4821,6 +4827,7 @@ yes123.com.tw
 yesasia.com
 yesasia.com.hk
 yespornplease.com
+yfsp.tv
 ygto.com
 yhcw.net
 yibada.com
