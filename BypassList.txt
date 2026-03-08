@@ -227,12 +227,14 @@ archiveofourown.org
 archives.gov
 arctosia.com
 areca-backup.org
+arena.ai
 arena.taipei
 arethusa.su
 arlingtoncemetery.mil
 arte.tv
 artstation.com
 arvanstorage.ir
+arweave.org
 asacp.org
 asiaharvest.org
 asianage.com
@@ -644,6 +646,7 @@ cixiaoya.club
 ck101.com
 classicalguitarblog.net
 claude.ai
+claude.com
 cldr.unicode.org
 clearsurance.com
 clementine-player.org
@@ -844,6 +847,7 @@ dmc.nico
 dmcdn.net
 dmhy.org
 dmm.co.jp
+dns.cloudflare.com
 dns2go.com
 dnscrypt.org
 dnssec.net
@@ -871,6 +875,7 @@ doublethinklab.org
 douchi.space
 dougscripts.com
 doujincafe.com
+download.dappcdn.com
 dpool.top
 dpp.org.tw
 dpr.info
@@ -914,6 +919,7 @@ ebook.hyread.com.tw
 ebtcbank.com
 ecfa.org.tw
 ecimg.tw
+economist.com
 edgecastcdn.net
 edubridge.com
 edx-cdn.org
@@ -1394,6 +1400,7 @@ google.com.vn
 google.cv
 google.cz
 google.de
+google.dev
 google.dk
 google.dm
 google.dz
@@ -1787,6 +1794,7 @@ internetpopculture.com
 interseclab.org
 inthenameofconfuciusmovie.com
 investigating.wordpress.com
+investing.com
 invidio.us
 inxian.com
 ipdefenseforum.com
@@ -2059,6 +2067,7 @@ mangafox.com
 mangafox.me
 mangmang.run
 manta.com
+manus.im
 manyvoices.news
 marc.info
 martau.com
@@ -3610,6 +3619,7 @@ wiredbytes.com
 wiredpen.com
 wireguard.com
 wisevid.com
+wispbyte.com
 withgoogle.com
 withyoutube.com
 witopia.net
@@ -3795,7 +3805,6 @@ z-library.ec
 z-library.sk
 zalmos.com
 zamimg.com
-zaobao.com.sg
 zaochenbao.com
 zattoo.com
 zb.com
