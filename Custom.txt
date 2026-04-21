@@ -9,6 +9,7 @@ hsreplay.net
 maj-soul.com
 nintendo.com
 nintendo.net
+nixos.org
 npm.community
 npmjs.com
 npmjs.org
