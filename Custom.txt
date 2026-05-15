@@ -16,6 +16,5 @@ npmjs.org
 sublimetext.com
 stackpathcdn.com
 usevia.app
-v1.uhdnow.com
 wallhaven.cc
 wot-design-uni.cn
