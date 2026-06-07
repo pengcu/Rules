@@ -2494,7 +2494,6 @@ pachosting.com
 pacom.mil
 pacopacomama.com
 page.link
-pages.dev
 paimon.moe
 pancakeswap.finance
 pandafan.pub
@@ -3077,6 +3076,7 @@ supervpn.net
 surfeasy.com
 surfshark.com
 surrenderat20.net
+suyingtv.com
 swagbucks.com
 swapspace.co
 swissinfo.ch
@@ -3701,6 +3701,7 @@ wowgirls.com
 wowhead.com
 wowporn.com
 wp.com
+wplace.live
 wpoforum.com
 writesonic.com
 wsj.com
