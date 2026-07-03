@@ -119,6 +119,7 @@ aiosearch.com
 aiph.net
 airconsole.com
 airitilibrary.com
+airuniversity.af.edu
 airvpn.org
 ait.org.tw
 aiweiweiblog.com
@@ -751,6 +752,7 @@ crazypool.org
 crazyshit.com
 crbug.com
 crchina.org
+creader.com
 creaders.net
 creativelab5.com
 cristyli.com
@@ -1021,6 +1023,7 @@ expatshield.com
 expecthim.com
 expekt.com
 exploader.net
+expressnews.com
 expressvpn.com
 exrates.me
 extmatrix.com
@@ -1245,6 +1248,7 @@ ganjingworld.com
 gaoming.net
 gartlive.com
 garudalinux.org
+gate.com
 gate.io
 gatecoin.com
 gather.com
@@ -1262,6 +1266,7 @@ generated.photos
 genius.com
 geph.io
 get.app
+get.dappcdn.com
 get.dev
 get.how
 get.page
@@ -1615,6 +1620,7 @@ gstatic.com
 gtricks.com
 gtv.org
 gtv1.org
+guangming.com.my
 guishan.org
 gumroad.com
 gunsamerica.com
@@ -1696,6 +1702,7 @@ hkgolden.com
 hkgpao.com
 hklts.org.hk
 hkmap.live
+hkong.hk
 hkopentv.com
 hkpeanut.com
 hkreporter.com
@@ -1983,6 +1990,7 @@ kenengba.com
 kepard.com
 kex.com
 keycdn.com
+kfor.com
 khatrimaza.org
 kichiku-doujinko.com
 kik.com
@@ -2222,6 +2230,7 @@ mfxmedia.com
 mgoon.com
 mgstage.com
 mh4u.org
+mhwindow.org
 microvpn.com
 mihua.org
 mij.rip
@@ -2584,6 +2593,7 @@ pbs.org
 pbworks.com
 pbxes.com
 pbxes.org
+pcgamesn.com
 pcgamestorrents.com
 pcij.org
 pct.org.tw
@@ -2601,6 +2611,7 @@ peoplenews.tw
 peopo.org
 perfect-privacy.com
 periscope.tv
+perma.cc
 perplexity.ai
 pewresearch.org
 phayul.com
@@ -2838,6 +2849,7 @@ rentry.co
 renyurenquan.org
 resilio.com
 resistchina.org
+restofworld.org
 retweetrank.com
 reuters.com
 reutersmedia.net
@@ -3060,6 +3072,7 @@ southmongolia.org
 southnews.com.tw
 southpark.cc.com
 sowers.org.hk
+spaceforce.mil
 spaces.hightail.com
 spacex.com
 spankbang.com
@@ -3148,6 +3161,7 @@ supchina.com
 superpages.com
 supervpn.net
 support.futunn.com
+supremecourt.gov
 surfeasy.com
 surfshark.com
 surrenderat20.net
@@ -3251,6 +3265,7 @@ thehansindia.com
 thehindu.com
 thehun.net
 theinitium.com
+theintercept.com
 thenewslens.com
 thepiratebay.org
 theporndude.com
@@ -3338,6 +3353,7 @@ tiktokcdn.com
 tiktokv.com
 tiktokv.us
 tiltbrush.com
+time.com
 timesnownews.com
 timesofindia.indiatimes.com
 timtales.com
@@ -3394,6 +3410,7 @@ trendsmap.com
 tronscan.org
 trouw.nl
 trt.net.tr
+trtworld.com
 truebuddha-md.org
 trustwallet.com
 truthsocial.com
@@ -3475,6 +3492,7 @@ twitturk.com
 twitturly.com
 twkan.com
 twreporter.org
+twstalker.com
 twttr.com
 tx.me
 tycool.com
@@ -3670,6 +3688,7 @@ wanz-factory.com
 warroom.org
 waselpro.com
 washingtonpost.com
+washingtontimes.com
 watchinese.com
 watchmygf.net
 watchout.tw
@@ -3688,6 +3707,7 @@ webmproject.org
 webpkgcache.com
 webrtc.org
 websdr.org
+webshare.io
 website.new
 wechatlawsuit.com
 weebly.com
@@ -3864,6 +3884,7 @@ xskywalker.com
 xt.com
 xt.pub
 xtube.com
+xuan.com.my
 xuchao.net
 xuchao.org
 xuehua.us
