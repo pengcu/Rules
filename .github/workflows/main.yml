@@ -32,8 +32,7 @@ jobs:
       - name: Generate Reject file
         if: ${{ env.NeedToSync }}
         run: |
-          curl -L https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt > ./AdList.txt
-          grep -v '^@@' ./AdList.txt | grep '||' | sed 's/^||//; s/\^$//' > ./Reject.txt
+          curl -L https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Mosdns_v5.txt > ./Reject.txt
 
       - name: Git push file to branch
         if: ${{ env.NeedToSync }}
