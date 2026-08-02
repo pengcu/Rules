@@ -2065,6 +2065,7 @@ lenwhite.com
 leonardo.ai
 lesoir.be
 letscorp.net
+level-plus.net
 lexica.art
 li.taipei
 liangyou.net
@@ -2461,6 +2462,7 @@ ntd.tv
 ntdtv.com
 ntdtv.com.tw
 ntdtv.cz
+nthlink.com
 nuexpo.com
 nurgo-software.com
 nusatrip.com
@@ -3420,6 +3422,7 @@ trtworld.com
 truebuddha-md.org
 trustwallet.com
 truthsocial.com
+tryai.dev
 tryheart.jp
 tsdr.uspto.gov
 tt1069.com
@@ -3576,6 +3579,7 @@ uyghurcongress.org
 uyghurpen.org
 uyghurstudies.org
 uyghurtribunal.com
+v.recipes
 v2.help
 v2.hysteria.network
 v2ex.com
