@@ -273,7 +273,6 @@ atlanta168.com
 atnext.com
 auctions.yahoo.co.jp
 audacy.com
-auntology.fandom.com
 autodraw.com
 av.movie
 av01.tv
@@ -582,6 +581,7 @@ cenews.eu
 centauro.com.br
 centerforhumanreprod.com
 centralnation.com
+cerebras.ai
 certificate-transparency.org
 cfr.org
 cg.play-analytics.com
@@ -655,6 +655,7 @@ chrome.com
 chromecast.com
 chromeexperiments.com
 chromestatus.com
+cht.com.tw
 ci-en.jp
 cia.gov
 cici.com
@@ -1061,6 +1062,7 @@ falundafaindia.org
 falunhr.org
 famunion.com
 fanbox.cc
+fandom.com
 fangeqiang.com
 fanglizhi.info
 fangong.org
@@ -1720,7 +1722,6 @@ hole.thu.monster
 holyspiritspeaks.org
 home.saxo
 homedepot.com
-hongkong.fandom.com
 hongkongfp.com
 hongzhi.li
 honven.xyz
@@ -2312,7 +2313,6 @@ mos.ru
 mosavi.io
 movements.org
 moviefap.com
-mozilla.ai
 mpettis.com
 mpfinance.com
 mpinews.com
@@ -2762,7 +2762,6 @@ puffinbrowser.com
 pullfolio.co
 pure18.com
 pureconcepts.net
-puredns.org
 pureinsight.org
 purepdf.com
 purevpn.com
@@ -2804,7 +2803,6 @@ radio.co
 radio.garden
 radioaustralia.net.au
 radiohilight.net
-radiojar.com
 radioline.co
 radiovaticana.org
 radiovncr.com
@@ -2911,7 +2909,6 @@ sadpanda.us
 safechat.com
 safeguarddefenders.com
 safervpn.com
-sagernet.org
 sakuralive.com
 salvation.org.hk
 sankakucomplex.com
@@ -3829,7 +3826,6 @@ wuw.red
 wwitv.com
 www.ajsands.com
 www.bing.com
-www.clashverge.dev
 www.hoyolab.com
 www.lorenzetti.com.br
 www.moztw.org
